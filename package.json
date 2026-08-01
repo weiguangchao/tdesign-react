@@ -20,7 +20,7 @@
     "@honkhonk/vite-plugin-svgr": "^1.1.0",
     "@types/echarts": "^4.9.13",
     "@types/lodash": "^4.14.178",
-    "@types/mockjs": "^1.0.6",
+    "@types/mockjs": "^1.0.10",
     "@types/node": "^17.0.23",
     "@types/qrcode.react": "^1.0.2",
     "@types/react": "^17.0.38",
